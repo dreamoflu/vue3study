@@ -1,10 +1,10 @@
 <template>
-$END$
+<div>55555</div>
 </template>
 
 <script>
 export default {
-name: "TemplateDetail"
+  name: "TemplateDetail"
 }
 </script>
 
